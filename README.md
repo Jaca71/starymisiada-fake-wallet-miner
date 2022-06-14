@@ -16,6 +16,8 @@ you want to prank your naive friend or sell this wherever and however you want- 
 
 
 #Zmiana logo
-**Jeżeli chcesz zmienić logo na inne*** w zdjęciu załączonym poniżej w zaznaczonym strzałkami polu wklej swoje logo linijka po linjce między podwójnymi cudzysłowami.
+
+**Jeżeli chcesz zmienić logo na inne*** 
+w zdjęciu załączonym poniżej w zaznaczonym strzałkami polu wklej swoje logo linijka po linjce między podwójnymi cudzysłowami.
 
 ![demo](starymisiada/logo.png)
