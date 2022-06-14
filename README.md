@@ -1,2 +1,2 @@
-**fake crypto wallet miner**
-kutas chuj cipa
+# (POLSKI) Opis
+**Innowacyjny scam z zagranicznego tiktoka napisany w pythonie**
