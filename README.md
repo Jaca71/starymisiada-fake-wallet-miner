@@ -1,7 +1,7 @@
 # pl/Opis
 **Innowacyjny scam z zagranicznego tiktoka napisany w pythonie**
 
-Polega na imitacji "kopania" portfeli krypto (jakkolwiek by to miało działać) i losowaniu randomowej liczby znalezionej w cudzysłowiu fortury do szesciu cyfr po przecinku.
+Polega na imitacji "kopania" portfeli krypto (jakkolwiek by to miało działać) i losowaniu randomowej liczby znalezionej w cudzysłowiu fortuny do szesciu cyfr po przecinku.
 
 chcesz nabrać swojego głupiego 12-letniego kolege że wykopałeś portfel z bitcoinem warty miliony albo sprzedać ten ledwo działający program - droga wolna
 
