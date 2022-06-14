@@ -20,4 +20,4 @@ you want to prank your naive friend or sell this wherever and however you want- 
 **Jeżeli chcesz zmienić logo na inne**
 w zdjęciu załączonym poniżej w zaznaczonym strzałkami polu wklej swoje logo linijka po linjce między podwójnymi cudzysłowami.
 
-![demo](starymisiada/logo.png)
+![zmianalogo](starymisiada/logo.png)
