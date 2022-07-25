@@ -1,4 +1,3 @@
-from time import sleep
 from colorama import Fore, Style
 import string, random
 import time
@@ -19,10 +18,10 @@ chuj = ["""             .                                                     o8
 # logo animation
 for chunk in chuj:
     print(Fore.YELLOW + chunk + Style.RESET_ALL)
-    sleep(0.15)
+    time.sleep(0.15)
 input("Please, enter your bitcoin wallet adress: ")
 print ("Connecting to database")
-sleep (1.5)
+time.sleep (1.5)
 
 # progressbar
 bar=Bar(max=20, suffix="%(percent)d%%")
@@ -32,12 +31,12 @@ for i in range (20):
 bar.finish()
 
 print (Fore.GREEN +"Successful connection, please wait")
-sleep (1.5)
+time.sleep (1.5)
 print("Account connected\nMining starting now:\n"+ Style.RESET_ALL )
-sleep (2)
+time.sleep (2)
 
 # wallet generator
 for i in range(random.randint(0,100)):
     print(''.join(random.choice(string.ascii_letters + string.digits) for i in range(52)) + Fore.RED + " --> 0.000000 BTC" + Style.RESET_ALL)
-    sleep (0.5)
+    time.sleep (0.3)
 print(''.join(random.choice(string.ascii_letters + string.digits) for i in range(52)) + Fore.GREEN + f" --> {round(random.uniform(0,1),6)} BTC" + Style.RESET_ALL)
